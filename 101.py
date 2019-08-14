@@ -3,10 +3,6 @@
 
 # In[6]:
 
-
-#1:  Write a program that calculates and prints the value according to the given formula:
-#Q = Square root of [(2 * C * D)/H]
-
 import math
 C=50
 H=30
