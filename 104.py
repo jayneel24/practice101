@@ -3,11 +3,6 @@
 
 # In[41]:
 
-
-#4: Write a program to compute the frequency of the words from the input. The output
-#should output after sorting the key alphanumerically.
-
-
 str=input('Enter the sentence: ')
 str=str.split()
 str=sorted(str)
