@@ -3,10 +3,6 @@
 
 # In[48]:
 
-
-#5: Make a class named Practice, convert all the previous programs into functions and
-#add them to the class and then access all four using an object of the class.
-
 class Practice:
     
     def first(self):
