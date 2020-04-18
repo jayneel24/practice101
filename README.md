@@ -1,2 +1,3 @@
 # practice101
-First Python Practice Session with the set of 5 problems.
+This repository contains introductory problems of the most basic level that concerned with the concepts of OOP using Python. 
+
